@@ -1,0 +1,23 @@
+on:
+  schedule:
+    # Run this once per day, towards the end of the day for keeping the most
+    # recent data point most meaningful (hours are interpreted in UTC).
+    - cron: "0 23 * * *"
+  workflow_dispatch: # Allow for running this manually.
+
+jobs:
+  j1:
+    name: Repositories stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: POO stats
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: mcmarius/poo
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
+
+      - name: SABD stats
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: mcmarius/pbd
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
