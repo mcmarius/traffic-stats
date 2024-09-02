@@ -1,5 +1,5 @@
 % Statistics for mcmarius/pbd
-% Generated for [mcmarius/pbd](https://github.com/mcmarius/pbd) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-01 23:07 UTC.
+% Generated for [mcmarius/pbd](https://github.com/mcmarius/pbd) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-02 23:09 UTC.
 
 
 ## Views
@@ -84,7 +84,7 @@ Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `teams.microsoft.com`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/blob/master/laboratoare.md`, 02: `/blob/master/rezumat.md`, 03: `/`, 04: `/blob/master/diverse.md`, 05: `/blob/master/README.md`, 06: `/tree/master`, 07: `/tree/master/scripts/hr`, 08: `/blob/master/scripts/hr/oracle_hr_create1.sql`, 09: `/tree/master/scripts`, 10: `/blob/master/scripts/hr/oracle_hr_insert1.sql`, 11: `/blob/master/scripts/hr/oracle_schema%20video.sql`, 12: `/blob/master/.gitignore`, 13: `/blob/master/scripts/hr/mysql-hr-schema.sql`, 14: `/blob/0e4a5a179089efa0980728c52a123f641c678b81/diverse.md`, 15: `/blob/master/scripts/hr/oracle_hr_project1.sql`
+Top 15 paths: 01: `/blob/master/laboratoare.md`, 02: `/blob/master/rezumat.md`, 03: `/`, 04: `/blob/master/diverse.md`, 05: `/blob/master/README.md`, 06: `/tree/master`, 07: `/tree/master/scripts/hr`, 08: `/blob/master/scripts/hr/oracle_hr_create1.sql`, 09: `/tree/master/scripts`, 10: `/blob/master/scripts/hr/oracle_schema%20video.sql`, 11: `/blob/master/.gitignore`, 12: `/blob/master/scripts/hr/oracle_hr_insert1.sql`, 13: `/blob/master/scripts/hr/mysql-hr-schema.sql`, 14: `/blob/f83bf85ac9518d2a2a7ab39815d18428602a1093/scripts/hr/oracle_hr_create1.sql`, 15: `/blob/master/scripts/hr/sqlite-hr-schema.sql`
 
 
 <script type="text/javascript">
