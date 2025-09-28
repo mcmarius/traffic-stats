@@ -1,5 +1,5 @@
 % Statistics for mcmarius/pbd
-% Generated for [mcmarius/pbd](https://github.com/mcmarius/pbd) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-27 23:09 UTC.
+% Generated for [mcmarius/pbd](https://github.com/mcmarius/pbd) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-28 23:09 UTC.
 
 
 ## Views
@@ -84,7 +84,7 @@ Top 15 referrers: 01: `github.com`, 02: `teams.microsoft.com`, 03: `Google`, 04:
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/blob/master/laboratoare.md`, 03: `/blob/master/rezumat.md`, 04: `/blob/master/diverse.md`, 05: `/blob/master/README.md`, 06: `/tree/master/scripts/hr`, 07: `/tree/master`, 08: `/blob/master/scripts/hr/oracle_23_hr_create.sql`, 09: `/blob/master/scripts/hr/mysql-hr-schema.sql`, 10: `/tree/master/scripts`, 11: `/blob/master/scripts/hr/sqlserver_1_create_tables.sql`, 12: `/blob/master/scripts/hr/oracle_23_hr_insert.sql`, 13: `/issues`, 14: `/blob/master/LICENSE`, 15: `/blob/master/scripts/hr/oracle_hr_create1.sql`
+Top 15 paths: 01: `/`, 02: `/blob/master/laboratoare.md`, 03: `/blob/master/rezumat.md`, 04: `/blob/master/diverse.md`, 05: `/blob/master/README.md`, 06: `/tree/master/scripts/hr`, 07: `/tree/master`, 08: `/blob/master/scripts/hr/oracle_23_hr_create.sql`, 09: `/blob/master/scripts/hr/mysql-hr-schema.sql`, 10: `/blob/master/scripts/hr/sqlserver_1_create_tables.sql`, 11: `/tree/master/scripts`, 12: `/blob/master/scripts/hr/oracle_23_hr_insert.sql`, 13: `/blob/master/scripts/hr/oracle_hr_create1.sql`, 14: `/issues`, 15: `/blob/master/LICENSE`
 
 
 <script type="text/javascript">
